@@ -5,7 +5,8 @@ GitChat is a place where coders and non-coders share and learn.
 
 ## 产品
 - App 
-  - Android：<https://fir.im/GitChatAndroid>
+  - Android: <https://fir.im/GitChatAndroid>
+  - iOS: <https://apps.apple.com/cn/app/gitchat/id1445396343>
 - [GitBook.cn](https://gitbook.cn/)
 - 微信公众号：GitChat  
   ![](https://images.gitbook.cn/c8324c10-1fb2-11e9-8d56-19f3754ba1b8)
